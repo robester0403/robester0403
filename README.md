@@ -1,5 +1,5 @@
 ## Hi everyone 
-This is the place where I opensource stuff, store my coding explorations, and ~~attempt to~~ disrupt the status quo!
+This is the place where I store my coding explorations, and ~~attempt to~~ disrupt the status quo!
 
 🔭  I’m currently working on a collaborative project and websites for other professionals
 🌱  I’m currently learning React Native and python
