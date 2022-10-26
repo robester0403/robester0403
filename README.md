@@ -3,7 +3,7 @@ This is the place where I store my coding explorations, and ~~attempt to~~ disru
 
 🔭  I’m currently working on a collaborative project and websites for other professionals  
 🌱  I’m currently polishing up my AWS and finishing my portfolio  
-💬  Ask me about Javascript/Typescript/ or /React/Express/Node  
+💬  Ask me about Javascript/Typescript or /React/Express/Node  
 📫  How to reach me: Through my LinkedIn below!  
 :meat_on_bone: Fun fact: I love slow cooked smoked BBQ and helping other professionals to start coding!  
 
