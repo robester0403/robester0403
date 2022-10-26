@@ -16,9 +16,9 @@ This is the place where I store my coding explorations, and ~~attempt to~~ disru
 <details>
   <summary>My Skills</summary>
 
-![html5-original-wordmark](https://user-images.githubusercontent.com/85914248/198156205-daf4f5af-2485-4da7-9065-81d041621f96.svg)
+<!-- ![html5-original-wordmark](https://user-images.githubusercontent.com/85914248/198156205-daf4f5af-2485-4da7-9065-81d041621f96.svg)
 ![javascript-original](https://user-images.githubusercontent.com/85914248/198156069-c55b08f9-c5a4-4edb-93a6-b7bedd0775ba.svg)
 ![typescript-original](https://user-images.githubusercontent.com/85914248/198156173-e20ad4fe-6ff5-45b0-9b6c-971e134a3de4.svg)
-
+ -->
 
 </details>
