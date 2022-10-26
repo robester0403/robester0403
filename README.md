@@ -15,6 +15,6 @@ This is the place where I store my coding explorations, and ~~attempt to~~ disru
 
 <details>
   <summary>My Skills</summary>
-[javascript-original](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![javascript-original](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 </details>
