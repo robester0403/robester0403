@@ -15,6 +15,7 @@ This is the place where I store my coding explorations, and ~~attempt to~~ disru
 
 <details>
   <summary>My Skills</summary>
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+  
+![JS Icon]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg))
 
 </details>
