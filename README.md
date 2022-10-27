@@ -12,7 +12,11 @@ This is the place where I store my coding explorations, and ~~attempt to~~ disru
 
 >Code is like humor. When you have to explain it, it’s bad. – Cory House
 
-
+<details>
+  <summary>About Me</summary>
+  
+  </details>
+  
 <details>
   <summary>My Skills</summary>
 
