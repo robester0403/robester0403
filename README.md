@@ -31,9 +31,10 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" height="48" width="48" >
 <img src="https://symbols.getvecta.com/stencil_261/45_sequelize.7e233926cd.jpg" height="48" width="48" >
 <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" height="48" width="48" >
-<img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" height="48" width="48" >
+<img src="[https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg](https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png)" height="48" width="48" >
 <img src="https://img.icons8.com/color/480/material-ui.png" height="48" width="48" >
 <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="48" width="48" >
 <img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" height="48" width="48" >
+<img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" height="48" width="48" >
 
 </details>
