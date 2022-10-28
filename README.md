@@ -30,7 +30,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 <details>
   <summary>Project Crumbs Introspection</summary>
  
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <a href='https://www.linkedin.com/feed/update/urn:li:activity:6877346921086771200/'>
   <img src="https://user-images.githubusercontent.com/85914248/198481875-76b2fe8d-fa6c-412e-ba48-758b0530d0f3.png" height="180" width="320" >
   </a>
   
