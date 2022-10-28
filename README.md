@@ -49,4 +49,5 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 </details>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=robester0403" >
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=robester0403" height="480" width="480">
