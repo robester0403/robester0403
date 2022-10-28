@@ -25,7 +25,25 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
   - In interviews, I love to get to know what companies are doing and how they are planning to tackle their problems.
   - I love to people with their problems, though oddly I find discord and slack more convenient to use than stack overflow (starting to make my mark).
   
-  </details>
+</details>
+  
+<details>
+  <summary>Project Crumbs Introspection</summary>
+ 
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src="https://user-images.githubusercontent.com/85914248/198481875-76b2fe8d-fa6c-412e-ba48-758b0530d0f3.png" height="180" width="320" >
+  </a>
+  
+  Crumbs is a Full Stack Mern App that maps influencer videos geographically to allow users to see their local content and choose to go visit the locations. It was built to integrate Youtube, Yelp Api, and Mapbox. This was my first solo project completed at the end of 2021, three months since I wrote my first code.  
+  
+  ### System Design Features
+  - Lightweight database design. Videos are stored externally with easy to use youtube, information comes on demand from Yelp, and the mapping service comes from the lower cost Mapbox api.
+  - NoSql MongoDB. The world of influencers requires the flexbility MongoDB to take in new variables and data where we may not have defined relationships
+  - Code for NoCode. Creating a marker will require minimal input from the influencer, using youtube video interfaces and the address location of the video. fast and easy
+  - Fun to use! It's fun mapping out other influencer videos so you can explore deeply into their world and feel the vibe of the area. Whether it is in Hawaii, Alaska, Texas, Nova Scotia, Vancouver... I watch my own markers for fun!
+  
+  
+</details>
   
 <details>
   <summary>My Skills</summary>
