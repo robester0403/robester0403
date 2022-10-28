@@ -49,4 +49,4 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 </details>
 
-<codersrank-skills-chart username="robester0403"></codersrank-skills-chart>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=robester0403" >
