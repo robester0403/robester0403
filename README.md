@@ -18,12 +18,12 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
   I am a full stack developer with 1 year experience. I bring with me years working in finance, where I became a CFA Charterholder, and managing a restaurant through the pandemic
   
   ### My Coding
-  I enjoy collaboration and am constantly taking part in collaborative projects with diverse developers around the world.
-  I try to do something new every week, whether it be making a video sharing app or a random trivia app.
-  I enjoy meeting coders in person, see you at the next gathering!
-  I am looking to contribute to opensource repos, currently browsing through the apps I use the most.
-  In interviews, I love to get to know what companies are doing and how they are planning to tackle their problems.
-  I love to people with their problems, though oddly I find discord and slack more convenient to use than stack overflow (starting to make my mark).
+  - I enjoy collaboration and am constantly taking part in collaborative projects with diverse developers around the world.
+  - I try to do something new every week, whether it be making a video sharing app or a random trivia app.
+  - I enjoy meeting coders in person, see you at the next gathering!
+  - I am looking to contribute to opensource repos, currently browsing through the apps I use the most.
+  - In interviews, I love to get to know what companies are doing and how they are planning to tackle their problems.
+  - I love to people with their problems, though oddly I find discord and slack more convenient to use than stack overflow (starting to make my mark).
   
   </details>
   
