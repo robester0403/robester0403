@@ -21,9 +21,19 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
   <summary>My Skills</summary>
 
 <img src="https://user-images.githubusercontent.com/85914248/198156205-daf4f5af-2485-4da7-9065-81d041621f96.svg" height="48" width="48" >
-![html5-original-wordmark]()
-![javascript-original](https://user-images.githubusercontent.com/85914248/198156069-c55b08f9-c5a4-4edb-93a6-b7bedd0775ba.svg =50x50)
-![typescript-original](https://user-images.githubusercontent.com/85914248/198156173-e20ad4fe-6ff5-45b0-9b6c-971e134a3de4.svg =50x50)
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="48" width="48" >
+<img src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" height="48" width="48" >
+<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" height="48" width="48" >
+<img src="https://symbols.getvecta.com/stencil_261/45_sequelize.7e233926cd.jpg" height="48" width="48" >
+<img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" height="48" width="48" >
+<img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" height="48" width="48" >
+<img src="https://img.icons8.com/color/480/material-ui.png" height="48" width="48" >
+<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="48" width="48" >
+<img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" height="48" width="48" >
 
 </details>
