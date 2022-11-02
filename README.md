@@ -14,5 +14,15 @@
 </section>
 
 <section align="center">
-<h2>Latest Projects</h2>
+  <h2>Recent Things</h2>
+  <table bordercolor="#66b2b2">
+    <tr>
+      <td width="50%" valign="top">Hello</td>
+      <td width="50%" valign="top">Hello</td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">Hello</td>
+      <td width="50%" valign="top">Hello</td>
+    </tr>
+  </table>    
 </section>
