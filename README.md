@@ -68,7 +68,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
           <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
         </a>
         <p> React, Node.js, Express, Apollo, GraphQL, TypeORM </p>
-        <p> A modern functional Apollo GraphQL server that serves as a beginner friendly boilerplate with full Typesafe CRUD functionality by leveraging TypeORM. </p>
+        <body> A modern functional Apollo GraphQL server that serves as a beginner friendly boilerplate with full Typesafe CRUD functionality by leveraging TypeORM. </body>
           <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
           </a>  
