@@ -13,3 +13,6 @@
 
 </section>
 
+<section align="center">
+<h2>Latest Projects</h2>
+</section>
