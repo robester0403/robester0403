@@ -72,11 +72,11 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 <section align="center">
   <table bordercolor="#ffffff">
       <tr>
-          <td>Crumbs Map Trails</td>
-          <td>Typescript GraphQL TypeORM Starter</td>
+          <td width="50%" valign="top">Crumbs Map Trails</td>
+          <td width="50%" valign="top">Typescript GraphQL TypeORM Starter</td>
       </tr>
       <tr>
-          <td>Band Profile Site</td>
+          <td width="50%" valign="top">Band Profile Site</td>
       </tr>
   </table>
 </section>
