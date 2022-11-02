@@ -56,22 +56,22 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
         <a href="https://www.crumbsmaptrails.com" target="_blank">
           <img src="https://user-images.githubusercontent.com/85914248/199609168-0f59f6f1-1dc8-421e-a9b6-1aa93e4d8085.gif">
         </a>
-        <details>
-          <summary>Skills</summary>
-          
           <p> React, Node.js, Express, MongoDB, Mapbox, Yelp, Youtube, Styled-Components, MUI, Sass </p>
           <p> This full stack app allows influencers to link their content to specific businesses on a map so that users can easily find interesting experiences close to them </p>
-          <a href="https://github.com/chunloy/desktop-cnc-router" target="_blank">
+          <a href="https://github.com/robester0403/crumbs" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
           </a>  
-            
-          </details>
       </td>
       <td width="50%" valign="top"> 
         <h2>Typescript GraphQL TypeORM Starter<h2>
-        <a href="https://github.com/robester0403?tab=repositories" target="_blank">
+        <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
           <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
         </a>
+        <p> React, Node.js, Express, Apollo, GraphQL, TypeORM </p>
+        <p> A modern functional Apollo GraphQL server that serves as a beginner friendly boilerplate with full Typesafe CRUD functionality by leveraging TypeORM. </p>
+          <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
       </td>
     </tr>
     <tr>
@@ -80,6 +80,11 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
         <a href="https://keen-sherbet-b94860.netlify.app/" target="_blank">
           <img src="https://user-images.githubusercontent.com/85914248/199610287-631b2042-ad9d-466f-8295-acbb5456b611.gif">
         </a>
+                <p> HTML, Sass </p>
+        <p> A simple Front End created from Figma designs showcasing responsiveness, animations, and other styling without use of a styling library </p>
+          <a href="https://github.com/robester0403/Band-Site" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
       </td>
     </tr>
   </table>    
