@@ -69,8 +69,20 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 </details>
 
+<section align="center">
+  <table bordercolor="#ffffff">
+      <tr>
+          <td>Crumbs Map Trails</td>
+          <td>Typescript GraphQL TypeORM Starter</td>
+      </tr>
+      <tr>
+          <td>Band Profile Site</td>
+      </tr>
+  </table>
+</section>
 
 <br>
+
 
 
 <section align="center">
