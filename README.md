@@ -63,7 +63,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
           </a>  
       </td>
       <td width="50%" valign="top"> 
-        <h2>Typescript GraphQL TypeORM Starter<h2>
+        <h2>Typescript GraphQL Starter<h2>
         <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
           <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
         </a>
