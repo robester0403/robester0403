@@ -1,3 +1,4 @@
+<section align="center">
 ## Hi everyone 
 This is the place where I store my coding explorations and ~~attempt to~~ disrupt the status quo!
 
@@ -11,6 +12,8 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 
 >Code is like humor. When you have to explain it, it’s bad. – Cory House
+  
+</section>
 
 <details>
   <summary>About Me</summary>
@@ -67,5 +70,60 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 </details>
 
+<section align="center">
+<h2>Latest Projects</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    
+    <td width="50%" valign="top">
+      <h3>Crumbs Map Trails</h3>
+        ![Recording 2022-11-01 at 18 48 10](https://user-images.githubusercontent.com/85914248/199586887-d0b7b5b6-ed91-4802-ad6e-14161c9b7121.gif)
+       <p>
+          <a href="https://github.com/robester0403/crumbs" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
+        </p>
+      <p> description </p>
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3>Typescript GraphQL TypeORM Starter</h3>
+      
+      ![GraphQL](https://user-images.githubusercontent.com/85914248/199587676-f7d228bc-3104-4a95-858b-e26e6e4f60d9.jpg)
+
+  <p>
+  <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+      </p>
+      <p>description </p>
+    </td>
+  </tr>
+  
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Band Profile Site </h3>
+![Recording 2022-11-02 at 10 11 42](https://user-images.githubusercontent.com/85914248/199587898-f592f6c1-4b6e-45a4-8533-86b4e7bc2865.gif)
+  <p>
+  <a href="https://github.com/robester0403/Band-Site" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+      </p>
+  <p>description </p>
+    </td>
+    
+  </tr>
+</table>
+</section>
+
+<br>
+
+<section align="center">
+<h2>Streak Stats</h2>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunloy&theme=highcontrast" alt="chunloy" />
+</p>
+</section>
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=robester0403" height="480" width="480">
