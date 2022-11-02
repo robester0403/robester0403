@@ -74,5 +74,5 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 
 <section align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=robester0403" height="480" width="400">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=robester0403" height="400" width="480">
 </section>
