@@ -26,7 +26,7 @@
       <td width="50%" valign="top"> 
         <h2>Typescript GraphQL TypeORM Starter<h2>
         <a href="https://github.com/robester0403?tab=repositories" target="_blank">
-          <img src="https://user-images.githubusercontent.com/85914248/199609545-50efe326-d632-44fe-9da6-f5032f42ce7a.jpg">
+          <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
         </a>
       </td>
     </tr>
