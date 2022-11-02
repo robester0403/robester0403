@@ -57,7 +57,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
           <img src="https://user-images.githubusercontent.com/85914248/199609168-0f59f6f1-1dc8-421e-a9b6-1aa93e4d8085.gif">
         </a>
           <p> React, Node.js, Express, MongoDB, Mapbox, Yelp, Youtube, Styled-Components, MUI, Sass </p>
-          <p style="font-size: 14px;">This full stack app allows influencers to link their content to specific businesses on a map so that users can easily find interesting experiences close to them</p>
+          <p><font size="1">This full stack app allows influencers to link their content to specific businesses on a map so that users can easily find interesting experiences close to them</font></p>
           <a href="https://github.com/robester0403/crumbs" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
           </a>  
