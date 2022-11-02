@@ -57,7 +57,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
           <img src="https://user-images.githubusercontent.com/85914248/199609168-0f59f6f1-1dc8-421e-a9b6-1aa93e4d8085.gif">
         </a>
           <p> React, Node.js, Express, MongoDB, Mapbox, Yelp, Youtube, Styled-Components, MUI, Sass </p>
-          This full stack app allows influencers to link their content to specific businesses on a map so that users can easily find interesting experiences close to them
+          <p style="font-size: 14px;">This full stack app allows influencers to link their content to specific businesses on a map so that users can easily find interesting experiences close to them</p>
           <a href="https://github.com/robester0403/crumbs" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
           </a>  
@@ -68,7 +68,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
           <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
         </a>
         <p> React, Node.js, Express, Apollo, GraphQL, TypeORM </p>
-        <body> A modern functional Apollo GraphQL server that serves as a beginner friendly boilerplate with full Typesafe CRUD functionality by leveraging TypeORM. </body>
+        <p> A modern functional Apollo GraphQL server that serves as a beginner friendly boilerplate with full Typesafe CRUD functionality by leveraging TypeORM. </p>
           <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
           </a>  
