@@ -1,4 +1,4 @@
-<section align="center">
+
 ## Hi everyone 
 This is the place where I store my coding explorations and ~~attempt to~~ disrupt the status quo!
 
@@ -12,8 +12,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 
 >Code is like humor. When you have to explain it, it’s bad. – Cory House
-  
-</section>
+
 
 <details>
   <summary>About Me</summary>
