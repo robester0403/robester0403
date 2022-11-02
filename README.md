@@ -14,7 +14,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 >Code is like humor. When you have to explain it, it’s bad. – Cory House
 
 
-<details>
+<!-- <details>
   <summary>About Me</summary>
   
   I am a full stack developer with 1 year experience. I bring with me years working in finance, where I became a CFA Charterholder, and managing a restaurant through the pandemic
@@ -67,7 +67,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 <img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" height="48" width="48" >
 <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" height="48" width="48" >
 
-</details>
+</details> -->
 
 <section align="center">
   <table bordercolor="#ffffff">
