@@ -46,7 +46,6 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 </details>
 
-![Recording 2022-11-02 at 10 11 42]()
 
 <section align="center">
   <h2>Recent Things</h2>
@@ -57,6 +56,16 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
         <a href="https://www.crumbsmaptrails.com" target="_blank">
           <img src="https://user-images.githubusercontent.com/85914248/199609168-0f59f6f1-1dc8-421e-a9b6-1aa93e4d8085.gif">
         </a>
+        <details>
+          <summary>Skills</summary>
+          
+          <p> React, Node.js, Express, MongoDB, Mapbox, Yelp, Youtube, Styled-Components, MUI, Sass </p>
+          <p> This full stack app allows influencers to link their content to specific businesses on a map so that users can easily find interesting experiences close to them </p>
+          <a href="https://github.com/chunloy/desktop-cnc-router" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
+            
+          </details>
       </td>
       <td width="50%" valign="top"> 
         <h2>Typescript GraphQL TypeORM Starter<h2>
