@@ -53,7 +53,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
     <tr>
       <td width="50%" valign="top"> 
         <h2>Crumbs<h2>
-        <a href="https://www.crumbsmaptrails.com" target="_blank">
+        <a href="http://www.crumbsmaptrails.com/" target="_blank">
           <img src="https://user-images.githubusercontent.com/85914248/199609168-0f59f6f1-1dc8-421e-a9b6-1aa93e4d8085.gif">
         </a>
           <p> React, Node.js, Express, MongoDB, Mapbox, Yelp, Youtube, Styled-Components, MUI, Sass </p>
