@@ -48,7 +48,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 
 <section align="center">
-  <h2>Recent Things</h2>
+  <h2>Recent Projects</h2>
   <table bordercolor="#66b2b2">
     <tr>
       <td width="50%" valign="top"> 
