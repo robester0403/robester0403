@@ -19,7 +19,7 @@
       <td width="50%" valign="top"> 
         <h2>Crumbs<h2>
         <a href="https://www.crumbsmaptrails.com" target="_blank">
-          <img src="(https://user-images.githubusercontent.com/85914248/199609168-0f59f6f1-1dc8-421e-a9b6-1aa93e4d8085.gif">
+          <img src="https://user-images.githubusercontent.com/85914248/199609168-0f59f6f1-1dc8-421e-a9b6-1aa93e4d8085.gif">
         </a>
       </td>
       <td width="50%" valign="top">sssss</td>
