@@ -15,6 +15,6 @@
 
 
 
-<section align="center">
+<section align="center" width="100%">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=robester0403" height="400" width="480">
 </section>
