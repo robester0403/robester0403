@@ -90,4 +90,4 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
   </table>    
 </section>
 
-    [![robester0403's GitHub stats](https://github-readme-stats.vercel.app/api?username=robester0403)](https://github.com/robester0403/github-readme-stats)
+![Robester0403's GitHub stats](https://github-readme-stats.vercel.app/api?username=robester0403)
