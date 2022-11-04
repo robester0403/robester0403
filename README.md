@@ -91,4 +91,5 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 </section>
     
 ![robester0403's GitHub stats](https://github-readme-stats.vercel.app/api?username=robester0403&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robester0403&langs_count=8)
 
