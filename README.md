@@ -91,7 +91,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 </section>
 
 <section align="center">
-![robester0403's GitHub stats](https://github-readme-stats.vercel.app/api?username=robester0403&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robester0403&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api?username=robester0403&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robester0403&langs_count=8">
     </section>
 
