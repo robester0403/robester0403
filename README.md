@@ -47,6 +47,11 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 </details>
 
 
+<p >
+<a href="https://www.linkedin.com/in/robertkso/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" /></a>
+</p>
+
+
 <section align="center">
   <h2>Recent Projects</h2>
   <table bordercolor="#66b2b2">
