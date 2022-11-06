@@ -46,10 +46,9 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 
 </details>
 
-
 <p >
 <a href="https://www.linkedin.com/in/robertkso/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" /></a>
-  <a href="https://www.robertkso.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85914248/200176855-0c49fa26-d618-4ad5-bafc-9d5deaf43181.png"  width="40" height="40" /></a>
+  <a href="https://www.robertkso.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85914248/200176979-d27c6520-1af6-425b-97f8-f37b72b8fa5e.png"  width="40" height="40" /></a>
 </p>
 
 
