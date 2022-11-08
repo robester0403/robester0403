@@ -3,8 +3,8 @@
 This is the place where I store my coding explorations and ~~attempt to~~ disrupt the status quo!
 
 🔭  I’m currently working on a collaborative project and websites for other professionals  
-🌱  I’m currently polishing up my AWS and finishing my portfolio  
-💬  Ask me about Javascript/Typescript or /React/Express/Node  
+🌱  Recently, I have been polishing up my AWS and finishing my portfolio  
+💬  Ask me about Javascript/Typescript or React/Express/Node  
 📫  How to reach me: Through my LinkedIn below!  
 :meat_on_bone: Fun fact: I love slow cooked smoked BBQ and helping other professionals to start coding!  
 
@@ -13,7 +13,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 <details>
   <summary>About Me</summary>
   
-  I am a full stack developer with 1 year experience. I bring with me years working in finance, where I became a CFA Charterholder, and managing a restaurant through the pandemic
+  I am a full stack developer with work experience. I also bring with me years working in finance, where I became a CFA Charterholder, and managing a restaurant through the pandemic
   
   ### My Coding
   - I enjoy collaboration and am constantly taking part in collaborative projects with diverse developers around the world.
