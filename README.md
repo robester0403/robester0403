@@ -3,7 +3,8 @@
 This is the place where I store my coding explorations and ~~attempt to~~ disrupt the status quo!
 
 🔭  I’m currently working on a collaborative project and websites for other professionals  
-🌱  Recently, I have been working building a Flask server and a medium clone blog called "midium" to post my own full stack blog 
+🌱  Recently, I have been working building a python Flask server and a medium clone blog called "midium" as a parody to everything Medium stands for
+💡  I have been really inspired by three js and https://atelier.net/virtual-economy/. May considering rebuilding my portfolio site to be full 3D 
 💬  Ask me about Javascript/Typescript or React/Express/Node  
 📫  How to reach me: Through my links below
 :meat_on_bone: Fun fact: I love slow cooked smoked BBQ and helping other professionals to start coding!  
