@@ -10,7 +10,7 @@ This is the place where I store my coding explorations and ~~attempt to~~ disrup
 :meat_on_bone: Fun fact: I love slow cooked smoked BBQ and helping other professionals to start coding!  
 
 >Code is like humor. When you have to explain it, it’s bad. – Cory House  
-Another quote from my AWS Lambda: <a href="https://ucj4ujgv2a.execute-api.us-east-2.amazonaws.com/default/QuoteLambda" target="blank">Here</a>
+Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0ydyiq.lambda-url.us-east-2.on.aws/" target="blank">Here</a>
 <details>
   <summary>About Me</summary>
   
