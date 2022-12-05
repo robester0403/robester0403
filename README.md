@@ -56,8 +56,30 @@ Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0yd
 <section align="center">
   <h2>Recent Projects</h2>
   <table bordercolor="#66b2b2">
-
-
+    <tr>
+      <td width="50%" valign="top"> 
+        <h2>Crumbs<h2>
+        <a href="http://www.crumbsmaptrails.com/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/85914248/199609168-0f59f6f1-1dc8-421e-a9b6-1aa93e4d8085.gif">
+        </a>
+          <p> React, Node.js, Express, MongoDB, Mapbox, Yelp, Youtube, Styled-Components, MUI, Sass </p>
+          <h5>This full stack app allows influencers to link their content to specific businesses on a map so that users can easily find interesting experiences close to them</font></h5>
+          <a href="https://github.com/robester0403/crumbs" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
+      </td>
+      <td width="50%" valign="top"> 
+        <h2>Typescript GraphQL Starter<h2>
+        <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+          <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
+        </a>
+        <p> React, Node.js, Express, Apollo, GraphQL, TypeORM </p>
+        <p> A modern functional Apollo GraphQL server that serves as a beginner friendly boilerplate with full Typesafe CRUD functionality by leveraging TypeORM. </p>
+          <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
+      </td>
+    </tr>
     <tr>
       <td width="50%" valign="top">
         <h2>Band Profile Site<h2>
