@@ -57,7 +57,7 @@ Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0yd
   <h2>Recent Projects</h2>
   <table bordercolor="#66b2b2">
     <tr>
-            <td width="50%" valign="top"> 
+        <td width="50%" valign="top"> 
         <h2>StreamlitProhet<h2>
         <a href="http://www.crumbsmaptrails.com/" target="_blank">![streamlit]()
 
@@ -79,8 +79,9 @@ Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0yd
           <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
           </a>  
-      </td
-      
+          </td>
+          </tr>
+          <tr>  
       <td width="50%" valign="top"> 
         <h2>Crumbs<h2>
         <a href="http://www.crumbsmaptrails.com/" target="_blank">
