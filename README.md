@@ -57,6 +57,30 @@ Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0yd
   <h2>Recent Projects</h2>
   <table bordercolor="#66b2b2">
     <tr>
+            <td width="50%" valign="top"> 
+        <h2>StreamlitProhet<h2>
+        <a href="http://www.crumbsmaptrails.com/" target="_blank">![streamlit]()
+
+          <img src="https://user-images.githubusercontent.com/85914248/205541922-39d9a076-3529-4c1a-b9f1-2855d746b04f.jpg">
+        </a>
+          <p> Python Pandas Prophet Streamlit</p>
+          <h5>a simple python app using pandas dataframe, FB's prophet, and streamlit to create a ready to use stock predictor with adjustable controls. Built in around a day as a demo of my rekindled interest in Python.</h5>
+          <a href="https://github.com/robester0403/crumbs" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
+      </td>
+      <td width="50%" valign="top"> 
+        <h2>Typescript GraphQL Starter<h2>
+        <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+          <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
+        </a>
+        <p> React, Node.js, Express, Apollo, GraphQL, TypeORM </p>
+        <p> A modern functional Apollo GraphQL server that serves as a beginner friendly boilerplate with full Typesafe CRUD functionality by leveraging TypeORM. </p>
+          <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
+      </td
+      
       <td width="50%" valign="top"> 
         <h2>Crumbs<h2>
         <a href="http://www.crumbsmaptrails.com/" target="_blank">
