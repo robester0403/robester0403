@@ -69,14 +69,16 @@ Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0yd
               </a>  
           </td>
           <td width="50%" valign="top"> 
-            <h2>Midium (Wannabe Medium)<h2>
-
-            <a href="https://user-images.githubusercontent.com/85914248/206008009-28a1d178-4335-4d43-88e4-1be67372dc08.jpeg" target="_blank">
-              <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
+            <h2>Midium, Wannabe Medium<h2>
+            <a href="https://github.com/robester0403/midium-web" target="_blank">
+              <img src="https://user-images.githubusercontent.com/85914248/206008009-28a1d178-4335-4d43-88e4-1be67372dc08.jpeg">
             </a>
             <p> React, React Query, Flask, Postgresql GPT-3 (text-davinci-003) </p>
             <h5> I have seen many posts on LinkedIn for aspiring developers and noticed most of these blogs reads the same. Midium handles this mechanical work for you, so you don't have to mindlessly churn out blog posts. Powered by the new and highly verbose (as well as expensive) "text-davinci-003" from GTP-3 it is now possible to just make posts on a button click.  </h5>
-              <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+              <a href="https://github.com/robester0403/midium-web" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+              </a>  
+                            <a href="https://github.com/robester0403/midium-server" target="_blank">
                 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
               </a>  
           </td>
