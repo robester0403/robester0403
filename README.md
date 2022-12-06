@@ -56,6 +56,30 @@ Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0yd
 <section align="center">
   <h2>Recent Projects</h2>
   <table bordercolor="#66b2b2">
+      <tr>
+          <td width="50%" valign="top"> 
+            <h2>Crumbs<h2>
+            <a href="https://github.com/robester0403/python-finance" target="_blank">
+              <img src="https://user-images.githubusercontent.com/85914248/205683062-f3ce4ebd-4923-4d6a-b8b8-d36d55ddf500.jpg">
+            </a>
+              <p> Python, pandas, streamlit </p>
+              <h5>Purely Python stock predictor using Pandas and Prophet. With a GUI of streamlit for easy control of the variables</h5>
+              <a href="https://github.com/robester0403/python-finance" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+              </a>  
+          </td>
+          <td width="50%" valign="top"> 
+            <h2>Midium<h2>
+            <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+              <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
+            </a>
+            <p> React, React Query, Flask, Postgresql GPT-3 (text-davinci-003) </p>
+            <p> I have seen many posts on LinkedIn for aspiring developers and noticed most of these blogs reads the same. Midium handles this mechanical work for you, so you don't have to mindlessly churn out blog posts. Powered by the new and highly verbose (as well as expensive) "text-davinci-003" from GTP-3 it is now possible to just make posts on a button click.  </p>
+              <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+              </a>  
+          </td>
+        </tr>
     <tr>
       <td width="50%" valign="top"> 
         <h2>Crumbs<h2>
