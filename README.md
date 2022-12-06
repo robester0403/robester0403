@@ -70,7 +70,8 @@ Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0yd
           </td>
           <td width="50%" valign="top"> 
             <h2>Midium (Wannabe Medium)<h2>
-            <a href="https://github.com/robester0403/graphql-typeORM-server" target="_blank">
+
+            <a href="https://user-images.githubusercontent.com/85914248/206008009-28a1d178-4335-4d43-88e4-1be67372dc08.jpeg" target="_blank">
               <img src="https://user-images.githubusercontent.com/85914248/199609808-c37407bd-2096-440d-8ed4-924be825edb2.jpg">
             </a>
             <p> React, React Query, Flask, Postgresql GPT-3 (text-davinci-003) </p>
