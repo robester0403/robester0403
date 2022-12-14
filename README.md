@@ -126,6 +126,5 @@ Another quote from my AWS Lambda: <a href="https://sbkg2srmazqzbiueyjhilmccaa0yd
 <section align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=robester0403&show_icons=true&theme=radical">
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robester0403&langs_count=8&layout=compact">
     </section>
 
